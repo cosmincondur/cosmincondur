@@ -1,13 +1,19 @@
 # Filter repositories with these topics
 
-Difficulty : beginner, intermediate, advanced
+Difficulty : beginner
 
 Languages (vanilla) : php, javascript
 
-Back-end frameworks : laravel, symfony
+Back-end frameworks :
 
-Frond-end frameworks : bootstrap, tailwind
+Frond-end frameworks : bootstrap
 
 Javascript library :
 
 Project type : course, personal-project
+
+Project platform : udemy, youtube, laracasts, symfonycasts
+
+---
+
+Upcoming : intermediate, advanced, laravel, symfony, tailwind
