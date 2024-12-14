@@ -1,4 +1,4 @@
-# How you can navigate/find/filter through the repositories
+# How you can filter repositories with topics
 
 Difficulty : beginner, intermediate, advanced
 
