@@ -1,16 +1,13 @@
-## Hi there 👋
+# Here you can see how to find/filter through the repositories that interest you
 
-<!--
-**cosmincondur/cosmincondur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Difficulty : beginner, intermediate, advanced
 
-Here are some ideas to get you started:
+Languages (vanilla) : php, javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Back-end frameworks : laravel, symfony
+
+Frond-end frameworks : bootstrap, tailwind
+
+Javascript library :
+
+Project type : course, personal-project
