@@ -1,4 +1,4 @@
-# How you can filter repositories with topics
+# Filter repositories with these topics
 
 Difficulty : beginner, intermediate, advanced
 
