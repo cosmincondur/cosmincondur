@@ -10,7 +10,7 @@ Frond-end frameworks : bootstrap
 
 Javascript library : -
 
-Project type : course, personal-project
+Project type : course, personal
 
 Project platform : udemy, youtube, laracasts, symfonycasts
 
